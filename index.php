@@ -16,7 +16,7 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="/SIMONPERA2/index.php">Beranda</a>
+                        <a class="nav-link active" aria-current="page" href="#">Beranda</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Berita</a>
@@ -25,7 +25,7 @@
                         <a class="nav-link" href="#">Fitur</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/SIMONPERA2/features/Client/Services/index.php">Pelayanan</a>
+                        <a class="nav-link" href="./features/Client/Services/index.php">Pelayanan</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Kontak</a>
@@ -58,13 +58,13 @@
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="/SIMONPERA2/assets/images/5.jpg" class="d-block w-100" alt="...">
+                        <img src="./assets/images/5.jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="/SIMONPERA2/assets/images/5.jpg" class="d-block w-100" alt="...">
+                        <img src="./assets/images/5.jpg" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="/SIMONPERA2/assets/images/5.jpg" class="d-block w-100" alt="...">
+                        <img src="./assets/images/5.jpg" class="d-block w-100" alt="...">
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">

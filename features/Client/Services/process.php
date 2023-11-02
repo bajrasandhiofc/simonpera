@@ -28,8 +28,6 @@ function tiket_masuk($conn) {
     }
 
     $conn->close();
-    header("Location: http://localhost/SIMONPERA2/features/Client/Services/index.php");
-    exit();
 }
 
 function prewedding($conn) {
@@ -49,8 +47,6 @@ function prewedding($conn) {
     }
 
     $conn->close();
-    header("Location: http://localhost/SIMONPERA2/features/Client/Services/index.php");
-    exit();
 }
 
 function lapangan($conn) {
@@ -70,8 +66,6 @@ function lapangan($conn) {
     }
 
     $conn->close();
-    header("Location: http://localhost/SIMONPERA2/features/Client/Services/index.php");
-    exit();
 }
 
 function rapat($conn) {
@@ -91,8 +85,6 @@ function rapat($conn) {
     }
 
     $conn->close();
-    header("Location: http://localhost/SIMONPERA2/features/Client/Services/index.php");
-    exit();
 }
 
 function guide($conn) {
@@ -112,8 +104,6 @@ function guide($conn) {
     }
 
     $conn->close();
-    header("Location: http://localhost/SIMONPERA2/features/Client/Services/index.php");
-    exit();
 }
 
 $choice = $_POST["layanan"];
@@ -121,16 +111,16 @@ switch ($choice) {
     case "tiketmasuk":
         tiket_masuk($conn);
         break;
-    case "tiketmasuk":
+    case "prewedding":
         prewedding($conn);
         break;
-    case "tiketmasuk":
+    case "lapangan":
         lapangan($conn);
         break;
-    case "tiketmasuk":
+    case "rapat":
         rapat($conn);
         break;
-    case "tiketmasuk":
+    case "guide":
         guide($conn);
         break;
 }
