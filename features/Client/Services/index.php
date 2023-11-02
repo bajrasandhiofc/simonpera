@@ -50,7 +50,7 @@
 
     <div class="container-fluid d-flex flex-wrap justify-content-around py-3">
         <div class="card m-3" style="width: 18rem;">
-            <img src="/SIMONPERA2/assets/images/5.jpg" class="card-img-top" alt="...">
+            <img src="../../../assets/images/1.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Tiket Masuk</h5>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -59,7 +59,7 @@
         </div>
 
         <div class="card m-3" style="width: 18rem;">
-            <img src="../../../assets/images/5.jpg" class="card-img-top" alt="...">
+            <img src="../../../assets/images/2.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Prewedding</h5>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -68,7 +68,7 @@
         </div>
 
         <div class="card m-3" style="width: 18rem;">
-            <img src="../../../assets/images/5.jpg" class="card-img-top" alt="...">
+            <img src="../../../assets/images/3.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Sewa Area Lapangan</h5>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -77,7 +77,7 @@
         </div>
 
         <div class="card m-3" style="width: 18rem;">
-            <img src="../../../assets/images/5.jpg" class="card-img-top" alt="...">
+            <img src="../../../assets/images/4.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Sewa Ruang Rapat</h5>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
